@@ -1,0 +1,23 @@
+
+.container {
+    width: 600px;
+    height: 600px;
+    background-image: url('1.jpg');
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.image {
+    width: 400px;
+    height: 400px;
+    background-image: url('0.jpg');
+    background-size: cover;
+    margin-bottom: 20px;
+}
+
+button {
+    margin-right: 10px;
+}
